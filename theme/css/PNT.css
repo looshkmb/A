@@ -1,0 +1,6 @@
+
+Minified CSS
+ Source map
+ Restructure
+ Beautify
+:root{--mainColor:#032713;--scuondColor:#be9244}@media (max-width:1199px){nav ul{border-bottom:10px solid #032713}}.cardColor-main,.cardColor-secound{background-color:#30744f!important;color:#fff!important}.cardColor-secound{background-color:#be9244!important}.fix-countaner{padding-top:100px}.fix-padding{padding:0}.fa-heart{color:#30744f}.text-lg-end{text-align:center!important}.carousel-item img{width:100%;height:100%}footer{background-color:beige;padding:20px 0}.carousel{width:55%}@media (max-width:1000px) and (min-width:576px){.carousel{width:80%}}@media (max-width:576px){.carousel{width:75%}}@media (max-width:500px){.carousel{width:90%}}@media (max-width:1200px) and (min-width:1000px){.carousel{width:68%}}
